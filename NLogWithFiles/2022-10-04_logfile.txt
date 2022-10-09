@@ -1,0 +1,2 @@
+2022-10-04 11:53:23.8992 WARN This is a warning message 
+2022-10-04 11:53:23.9621 ERROR This is an error message
